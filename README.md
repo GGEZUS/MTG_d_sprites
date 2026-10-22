@@ -6,6 +6,8 @@ Image hosting for MTG Discord bot card images.
 
 - `cards/` - Card images organized by set code
 - `boosters/` - Booster pack images
+- `themedecks/` - Theme deck images
+- `backs/` - Card back images (`mtg_back_1.jpg` is the default; future league backs go here too)
 
 ## GitHub Pages
 
